@@ -1,12 +1,8 @@
-[![Flash USDT Sender - Video Tutorial](https://img.youtube.com/vi/1sLMPxZ1mLo/maxresdefault.jpg)](https://youtu.be/1sLMPxZ1mLo)
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1sLMPxZ1mLo" frameborder="0" allowfullscreen></iframe>
-
-
 # 🚀 Flash USDT Sender Bot  
 
 ![Professional Blockchain Banner](https://raw.githubusercontent.com/FlashUSDTSenderSoftware/FlashUSDTSenderSoftware.github.io/refs/heads/main/Copy%20of%20Green%20Modern%20Futuristic%20Artificial%20Intelligence%20Presentation.jpeg)  
+
+[![Flash USDT Sender - Video Tutorial](https://img.youtube.com/vi/1sLMPxZ1mLo/maxresdefault.jpg)](https://youtu.be/1sLMPxZ1mLo)
 
 ---
 
@@ -86,4 +82,4 @@ The **Flash USDT Sender Bot v1.0** is here! Experience a cutting-edge tool for r
 > **Educational Use Only**: This tool is designed for blockchain testing, learning, and ethical usage. Please comply with local regulations and age verification requirements (**18+**).  
 
 **Made with ❤️ by Flash USDT Sender Bot Team**  
-Act responsibly, and enjoy exploring blockchain technology!  
+Act responsibly, and enjoy exploring blockchain technology!
